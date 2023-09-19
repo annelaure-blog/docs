@@ -1,43 +1,44 @@
 {
-  "$schema": "https://mintlify.com/schema.json",
-  "name": "Hyperline Documentation",
-  "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
-  },
-  "favicon": "/favicon.png",
-  "colors": {
-    "primary": "#9563FF",
-    "light": "#AE87FF",
-    "dark": "#0D001D",
-    "background": {
-      "dark": "#090014"
+  "site": {
+    "name": "Hyperline Documentation",
+    "logo": {
+      "dark": "/logo/dark.svg",
+      "light": "/logo/light.svg"
     },
-    "anchors": {
-      "from": "#FF7F57",
-      "to": "#9563FF"
-    }
+    "favicon": "/favicon.png",
+    "colors": {
+      "primary": "#9563FF",
+      "light": "#AE87FF",
+      "dark": "#0D001D",
+      "background": {
+        "dark": "#090014"
+      },
+      "anchors": {
+        "from": "#FF7F57",
+        "to": "#9563FF"
+      }
+    },
+    "modeToggle": {
+      "default": "light",
+      "isHidden": true
+    },
+    "topbarLinks": [
+      {
+        "name": "Support",
+        "url": "mailto:hi@mintlify.com"
+      }
+    ],
+    "topbarCtaButton": {
+      "name": "Dashboard",
+      "url": "https://dashboard.mintlify.com"
+    },
+    "tabs": [
+      {
+        "name": "API Reference",
+        "url": "api-reference"
+      }
+    ]
   },
-  "modeToggle": {
-    "default": "light",
-    "isHidden": true
-  },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
-    }
-  ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "Documentation",
@@ -58,7 +59,7 @@
   "navigation": [
     {
       "group": "Welcome",
-      "pages": ["introduction", "onboarding-process", "sandbox-environment"]
+      "pages": ["introduction", "onboarding process", "sandbox environment"]
     },
     {
       "group": "Products & Plans",
@@ -78,7 +79,7 @@
     },
     {
       "group": "Hosted Pages",
-      "pages": ["checkout-page", "customer-portal", "customization"]
+      "pages": ["checkout page", "customer portal", "customization"]
     }
   ],
   "footerSocials": {
