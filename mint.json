@@ -58,7 +58,7 @@
   "navigation": [
     {
       "group": "Welcome",
-      "pages": ["introduction", "onboarding process", "sandbox environment"]
+      "pages": ["introduction", "onboarding-process", "sandbox-environment"]
     },
     {
       "group": "Products & Plans",
@@ -78,7 +78,7 @@
     },
     {
       "group": "Hosted Pages",
-      "pages": ["checkout page", "customer portal", "customization"]
+      "pages": ["checkout-page", "customer-portal", "customization"]
     }
   ],
   "footerSocials": {
