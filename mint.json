@@ -59,7 +59,7 @@
   "navigation": [
     {
       "group": "Welcome",
-      "pages": ["introduction", "onboarding process", "sandbox environment"]
+      "pages": ["quickstart", "onboarding process", "sandbox environment"]
     },
     {
       "group": "Products & Plans",
