@@ -58,24 +58,27 @@
   "navigation": [
     {
       "group": "Welcome",
-      "pages": ["introduction", "onboarding process","sandbox environment"]
+      "pages": ["introduction", "onboarding process", "sandbox environment"]
     },
     {
-      "group": "products & plans",
-      "pages": ["", "", "", "", ""]
+      "group": "Products & Plans",
+      "pages": ["page1", "page2", "page3", "page4", "page5"]
     },
     {
-      "group": "invoicing",
-      "pages": [""]
+      "group": "Invoicing",
+      "pages": ["page6"]
     },
     {
-      "group": "Wallets & credit",
-      "pages": [
-        "",
-        "",
-        "",
-        ""
-      ]
+      "group": "Wallets & Credit",
+      "pages": ["page7", "page8", "page9", "page10"]
+    },
+    {
+      "group": "Analytics",
+      "pages": ["page11", "page12"]
+    },
+    {
+      "group": "Hosted Pages",
+      "pages": ["checkout page", "customer portal", "customization"]
     }
   ],
   "footerSocials": {
