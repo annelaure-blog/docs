@@ -58,7 +58,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction", "quickstart", "onboarding process"]
+      "pages": ["introduction", "quickstart", "onboarding-process"]
     },
     {
       "group": "Essentials",
