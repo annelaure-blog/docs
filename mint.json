@@ -57,24 +57,24 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": ["introduction", "quickstart", "onboarding process"]
+      "group": "Welcome",
+      "pages": ["introduction", "onboarding process","sandbox environment"]
     },
     {
-      "group": "Essentials",
-      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
+      "group": "products & plans",
+      "pages": ["", "", "", "", ""]
     },
     {
-      "group": "API Documentation",
-      "pages": ["api-reference/authentication"]
+      "group": "invoicing",
+      "pages": [""]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Wallets & credit",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/update",
-        "api-reference/endpoint/delete"
+        "",
+        "",
+        "",
+        ""
       ]
     }
   ],
